@@ -16,6 +16,19 @@
 ## **Percentage-and-Square:**<br>
 ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif)
 
+| Addition | Subtraction |
+| --- | --- |
+| ![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif) | ![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif) |
+
+| Multiplication | Division |
+| --- | --- |
+| ![Multiplication.gif](https://i.postimg.cc/SRGtpvRn/Multiplication.gif) | ![Division.gif](https://i.postimg.cc/QMRzg7vd/Division.gif) |
+
+| Percentage and Square |
+| --- |
+| ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
+
+
 ## Features:
 
 1. **Addition, Subtraction, Multiplication, and Division:**
