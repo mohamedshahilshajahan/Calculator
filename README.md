@@ -16,7 +16,7 @@
 
 | Slow Startup & Resize Issue |
 | --- |
-| ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
+| [![Starting-and-Resize.gif](https://i.postimg.cc/g0dC18Nt/Starting-and-Resize.gif)](https://postimg.cc/3kSfv4M2) |
 
 ## Features:
 
