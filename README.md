@@ -14,6 +14,9 @@
 | --- |
 | ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
 
+| Starting the App is Slow |
+| --- |
+| ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
 
 ## Features:
 
@@ -33,6 +36,12 @@
    Currently, only addition supports consecutive calculations without pressing the equal button. For subtraction, multiplication, and division, you need to press the equal button after each operation. For example, to calculate 50-30-20, you would need to press the equal button after each subtraction.
 
 ## Known Issue (To be Fixed in Future Updates):
+
+1. **Slow Startup:**
+   - The initial startup time for version 1.0 may be slower than expected.
+
+2. **Resize Issue:**
+   - Resizing functionality may not work as intended in this version.
 
 The current version of the calculator has a limitation where only addition operations can be performed consecutively without pressing the equal button. Subtraction, multiplication, and division operations take only the last two numbers entered and calculate the result accordingly, which may not provide the expected outcome. This issue will be addressed and fixed in future updates to ensure seamless operation across all arithmetic operations.
 
