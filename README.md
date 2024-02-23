@@ -14,7 +14,7 @@
 | --- |
 | ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
 
-| Starting the App is Slow |
+| Slow Startup & Resize Issue |
 | --- |
 | ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
 
