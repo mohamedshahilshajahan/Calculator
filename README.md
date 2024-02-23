@@ -1,11 +1,16 @@
 # Calculator 1.0
 
-Welcome to Calculator 1.0! This simple calculator project is built using Java and provides basic arithmetic operations in a user-friendly interface.
+**Welcome to Calculator 1.0! This simple calculator project is built using Java and provides basic arithmetic operations in a user-friendly interface.**
+
 
 ## **Addition:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subtraction:**<br>
-
-![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif)
-
+![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif)<br>
+<br>
+## **Multiplication:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Division:**<br>
+![Multiplication.gif](https://i.postimg.cc/SRGtpvRn/Multiplication.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![Division.gif](https://i.postimg.cc/QMRzg7vd/Division.gif)<br>
+<br>
+## **Percentage-and-Square:**<br>
+![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif)
 
 ## Features:
 
