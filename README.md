@@ -16,7 +16,7 @@
 
 | Slow Startup & Resize Issue |
 | --- |
-| [![Starting-and-Resize.gif](https://i.postimg.cc/g0dC18Nt/Starting-and-Resize.gif)](https://postimg.cc/3kSfv4M2) |
+| [![Starting-and-Resize-1.gif](https://i.postimg.cc/85zM7FKy/Starting-and-Resize-1.gif)](https://postimg.cc/R32N80zf) |
 
 ## Features:
 
