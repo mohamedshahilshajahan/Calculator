@@ -2,6 +2,11 @@
 
 Welcome to Calculator 1.0! This simple calculator project is built using Java and provides basic arithmetic operations in a user-friendly interface.
 
+## **Addition:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subtraction:**<br>
+
+![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif) &nbsp;&nbsp;&nbsp;&nbsp; ![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif)
+
+
 ## Features:
 
 1. **Addition, Subtraction, Multiplication, and Division:**
@@ -13,12 +18,10 @@ Welcome to Calculator 1.0! This simple calculator project is built using Java an
 3. **Equal Button for Results:**
    Click the equal button to obtain the result of your calculation.
 
-## Features:
-
-1. **Addition Works Multiple Times:**
+4. **Addition Works Multiple Times:**
    You can perform addition operations multiple times consecutively without pressing the equal button. For example, you can calculate the sum of 50+30+20 directly.
 
-2. **Other Arithmetic Operations:**
+5. **Other Arithmetic Operations:**
    Currently, only addition supports consecutive calculations without pressing the equal button. For subtraction, multiplication, and division, you need to press the equal button after each operation. For example, to calculate 50-30-20, you would need to press the equal button after each subtraction.
 
 ## Known Issue (To be Fixed in Future Updates):
