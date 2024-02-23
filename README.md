@@ -2,20 +2,6 @@
 
 **Welcome to Calculator 1.0! This simple calculator project is built using Java and provides basic arithmetic operations in a user-friendly interface.**
 
-
-## **Addition:**
-![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif)
-## **Subtraction:**
-![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif)<br>
-
-## **Multiplication:**
-![Multiplication.gif](https://i.postimg.cc/SRGtpvRn/Multiplication.gif) 
-##  **Division:**
-![Division.gif](https://i.postimg.cc/QMRzg7vd/Division.gif)<br>
-
-## **Percentage-and-Square:**<br>
-![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif)
-
 | Addition | Subtraction |
 | --- | --- |
 | ![Addition.gif](https://i.postimg.cc/Qxtqttn4/Addition.gif) | ![Subtraction.gif](https://i.postimg.cc/R0fdBDbv/Subtraction.gif) |
