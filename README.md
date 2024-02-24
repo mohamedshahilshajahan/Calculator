@@ -17,7 +17,7 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
 ## New Features and Fixes:
 
 1. **Dark Mode and Light Mode Theme:**
-   Calculator 2.0 introduces a sleek and customizable appearance with the addition of dark mode and light mode themes. Choose the theme that suits your preference.
+   Calculator 2.0 introduces a sleek and customizable appearance with the addition of dark mode and light mode themes. Choose the theme that suits your preference. The buttons are now elegantly rounded, enhancing the overall visual appeal.
 
 2. **Startup Slowness Issue Fixed:**
    We've addressed and resolved the startup slowness issue, ensuring a quicker and smoother launch of the calculator application.
