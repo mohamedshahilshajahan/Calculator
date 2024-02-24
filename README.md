@@ -31,6 +31,11 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
 5. **Various Minor Bug Fixes:**
    Numerous minor issues have been identified and fixed in this release to enhance the overall performance and usability of the calculator.
 
+## Known Issue (To be Fixed in Next Update):
+
+- **Square Operation Issue:**
+  There is a known issue with the square operation in this version (2.0) where it may not be working as intended. This issue will be addressed and fixed in the next update. We appreciate your patience and understanding.
+
 ## Reporting Issues:
 Please refer to the [issues](https://github.com/mohamedshahilshajahan/Calculator/issues) section for any updates or additional information on known issues. Feel free to report any new issues you encounter.
 
