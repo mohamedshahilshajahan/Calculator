@@ -2,6 +2,18 @@
 
 Welcome to Calculator 2.0! This updated version brings several new features, improvements, and bug fixes for a better user experience.
 
+| Dark Mode and Light Mode Theme |
+| --- |
+| ![Dark/Light-mode.gif](https://i.postimg.cc/VNSp2wtv/Dark-mode.gif) |
+
+| Resize and Startup Slowness Fixed |
+| --- |
+| ![Resize-and-Startup.gif](https://i.postimg.cc/wMNXLWnw/Resize-and-Startup.gif) |
+
+| Arthimetic Operations |
+| --- |
+| ![All-calculation.gif](https://i.postimg.cc/ydSY8FCh/All-calculation.gif) |
+
 ## New Features and Fixes:
 
 1. **Dark Mode and Light Mode Theme:**
@@ -20,11 +32,7 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
    Numerous minor issues have been identified and fixed in this release to enhance the overall performance and usability of the calculator.
 
 ## Reporting Issues:
+Please refer to the [issues](https://github.com/mohamedshahilshajahan/Calculator/issues) section for any updates or additional information on known issues. Feel free to report any new issues you encounter.
 
-If you encounter any issues or have suggestions for further improvements, please report them by sending an email to [your@email.com](mailto:your@email.com). Your feedback is highly valued.
-
-## Getting Started:
-
-To use Calculator 2.0, follow the instructions in the [Getting Started](#getting-started) section of the README.
-
-Thank you for using Calculator 2.0! We hope you enjoy the updated features and improvements.
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
