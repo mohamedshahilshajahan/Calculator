@@ -58,3 +58,5 @@ Calculator 1.0 is just the beginning. Future updates may include additional feat
 ## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Please refer to the [issues](https://github.com/mohamedshahilshajahan/Calculator/issues) section for any updates or additional information on known issues. Feel free to report any new issues you encounter.
