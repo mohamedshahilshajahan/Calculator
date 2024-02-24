@@ -10,9 +10,9 @@
 | --- | --- |
 | ![Multiplication.gif](https://i.postimg.cc/SRGtpvRn/Multiplication.gif) | ![Division.gif](https://i.postimg.cc/QMRzg7vd/Division.gif) |
 
-| Percentage and Square |
-| --- |
-| ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
+| Percentage | Square |
+| --- | --- |
+| ![Percentage.gif](https://i.postimg.cc/52YMzpf6/Percentage.gif) | ![square.gif](https://i.postimg.cc/02HsrhRT/square.gif) |
 
 | Slow Startup |
 | --- |
