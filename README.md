@@ -4,7 +4,7 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
 
 | Dark Mode and Light Mode Theme |
 | --- |
-| ![Dark/Light-mode.gif](https://i.postimg.cc/VNSp2wtv/Dark-mode.gif) |
+| ![theme.gif](https://i.postimg.cc/QM9PGqjG/theme.gif) |
 
 | Resize and Startup Slowness Fixed |
 | --- |
