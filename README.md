@@ -14,9 +14,13 @@
 | --- |
 | ![Percentage-and-Square.gif](https://i.postimg.cc/h48YxfsK/Percentage-and-Square.gif) |
 
-| Slow Startup & Resize Issue |
+| Slow Startup |
 | --- |
-| [![Starting-and-Resize-1.gif](https://i.postimg.cc/85zM7FKy/Starting-and-Resize-1.gif)](https://postimg.cc/R32N80zf) |
+| [![startup-slow.gif](https://i.postimg.cc/W3wJmjQh/startup-slow.gif)](https://postimg.cc/mzhDBxZs) |
+
+| Resize Issue |
+| --- |
+| [![Resize-issue.gif](https://i.postimg.cc/wTmgnFjk/Resize-issue.gif)](https://postimg.cc/yksMZm9J) |
 
 ## Features:
 
