@@ -38,6 +38,10 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
 3. Type `cd that-copied-location` in the command prompt and press Enter.
 4. Execute the command `java -jar Calculator_2.java` to successfully launch the project.
 
+**Alternatively, you can run the included JAR file directly. If you choose this method, make sure you have the JDK installed on your PC. If not, install the JDK first, and then run the `Calculator_2.jar` file. It works seamlessly.**
+
+Make sure to check the relevant section in the `.gitattributes` file to ensure accurate language detection by Linguist.
+
 ## Known Issue (To be Fixed in Next Update):
 
 - **Square Operation Issue:**
