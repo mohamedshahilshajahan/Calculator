@@ -31,6 +31,13 @@ Welcome to Calculator 2.0! This updated version brings several new features, imp
 5. **Various Minor Bug Fixes:**
    Numerous minor issues have been identified and fixed in this release to enhance the overall performance and usability of the calculator.
 
+## To run this program, follow these steps:
+
+1. Open your command prompt on your PC.
+2. Copy the project file location.
+3. Type `cd that-copied-location` in the command prompt and press Enter.
+4. Execute the command `java -jar Calculator_2.java` to successfully launch the project.
+
 ## Known Issue (To be Fixed in Next Update):
 
 - **Square Operation Issue:**
