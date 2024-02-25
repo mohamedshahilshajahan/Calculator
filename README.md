@@ -39,6 +39,13 @@
 5. **Other Arithmetic Operations:**
    Currently, only addition supports consecutive calculations without pressing the equal button. For subtraction, multiplication, and division, you need to press the equal button after each operation. For example, to calculate 50-30-20, you would need to press the equal button after each subtraction.
 
+## To run this program, follow these steps:
+
+1. Open your command prompt on your PC.
+2. Copy the project file location.
+3. Type `cd that-copied-location` in the command prompt and press Enter.
+4. Execute the command `java -jar Calculator_1.java` to successfully launch the project.
+
 ## Known Issue (To be Fixed in Future Updates):
 
 1. **Slow Startup:**
