@@ -28,6 +28,17 @@ Welcome to Calculator 3.0! This latest version brings significant improvements, 
 | --- |
 | ![Square-Fix.gif](https://i.postimg.cc/FKVZzn0m/Square-Fix.gif) |
 
+## To run this program, follow these steps:
+
+1. Open your command prompt on your PC.
+2. Copy the project file location.
+3. Type `cd that-copied-location` in the command prompt and press Enter.
+4. Execute the command `java -jar Calculator_3.java` to successfully launch the project.
+
+**Alternatively, you can run the included JAR file directly. If you choose this method, make sure you have the JDK installed on your PC. If not, install the JDK first, and then run the `Calculator_3.jar` file. It works seamlessly.**
+
+Make sure to check the relevant section in the `.gitattributes` file to ensure accurate language detection by Linguist.
+
 ## Reporting Issues:
 Please refer to the [issues](https://github.com/mohamedshahilshajahan/Calculator/issues) section for any updates or additional information on known issues. Feel free to report any new issues you encounter.
 
