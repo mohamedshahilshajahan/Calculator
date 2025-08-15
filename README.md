@@ -107,8 +107,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <h3 align="left">Support:</h3>
 
 <div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.buymeacoffee.com/jazzboss@upi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jazzboss@upi" />
+  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
   </a>
   <a href="https://paypal.me/MohamedShahil">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" />
