@@ -99,9 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
         </a>
       </p>
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahilshajahan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
   </tr>
 </table>
 
