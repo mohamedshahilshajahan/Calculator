@@ -64,16 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   Let’s build something awesome together — one project at a time. 🤝
 </h3>
 
-<h2 align="center">#OpenSource #FreelanceDeveloper #GoogleAppsScript #Automation #TechEnthusiast</h2>
-
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=blueviolet&style=flat" 
-    alt="mohamedshahilshajahan" 
-    width="200" 
-    height="40" 
-  />
-</p>
+<h2 align="center">#TechEnthusiast</h2>
 
 <img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
 
@@ -101,29 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </td>
   </tr>
 </table>
-
-<h3 align="left">Support:</h3>
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
-  </a>
-  <a>
-    <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
-  </a>
-  <a href="https://paypal.me/MohamedShahil">
-    <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
-  </a>
-</div>
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://i.postimg.cc/xj76pphB/bmc-qr.png" height="210" width=auto alt="mohamedshahilshajahan" />
-  </a>
-  <a>
-    <img src="https://i.postimg.cc/5NrjCLHB/BHIM-QR.png" height="215" width=auto />
-  </a>
-</div>
 
 <p>
 </p>
