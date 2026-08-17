@@ -66,8 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <h2 align="center">#TechEnthusiast</h2>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
